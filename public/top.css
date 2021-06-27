@@ -1,17 +1,101 @@
-body {
-	background-color: #7fffd4;
-}
-
 h1 {
-	color: #FFFFFF;
-	text-align: center;
+    font-size: 36px;
+    color: #513c2c;
+    text-align: center;
+    text-shadow: 2px 2px 1px #FFFFFF, -2px 2px 1px #FFFFFF, 2px -2px 1px #FFFFFF, -2px -2px 1px #FFFFFF, 2px 0px 1px #FFFFFF, 0px 2px 1px #FFFFFF, -2px 0px 1px #FFFFFF, 0px -2px 1px #FFFFFF;
 }
 
 h2 {
-	color: #FFFFFF;
-	text-align: center;
+    font-size: 36px;
+    color: #513c2c;
+    text-align: center;
 }
 
-div {
-	text-align: center;
+h3 {
+    font-size: 28px;
+    color: #513c2c;
+}
+
+p.appp {
+    font-size: 24px;
+    color: #513c2c;
+    text-align: left;
+}
+
+.apptext {
+    display: flex;
+    flex-flow: column wrap;
+}
+
+body {
+    background-color: #ccf1ed;
+}
+
+.top {
+    text-align: center;
+}
+
+.app {
+    background-color: #ffffff;
+    color: #513c2c;
+    padding: 10px;
+}
+
+ul {
+    list-style-type: none;
+    margin-block-start: 0em;
+    margin-block-end: 0em;
+    padding-inline-start: 0px;
+}
+
+li {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+hr {
+    border: none;
+    border-top: 18px dotted #ccf1ed;
+    margin: 40px;
+}
+
+img.mokamokafactory {
+    width: 300px;
+    height: 300px;
+}
+
+img.mokamokafactoryapp {
+    width: 300px;
+    margin-right: 60px;
+}
+
+.nakanohito {
+    padding: 10px;
+    text-align: center;
+}
+
+.nakanohitotext {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+img.link {
+    width: 35px;
+    padding: 30px;
+}
+
+a {
+    text-decoration: none;
+}
+
+p.nakanohitop {
+    text-align: center;
+    font-size: 24px;
+    color: #513c2c;
+    line-height: 50px;
+    margin-right: 80px;
 }
