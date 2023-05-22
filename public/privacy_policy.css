@@ -1,0 +1,47 @@
+h1 {
+    font-size: 36px;
+    color: #513c2c;
+    text-align: center;
+    text-shadow: 2px 2px 1px #FFFFFF, -2px 2px 1px #FFFFFF, 2px -2px 1px #FFFFFF, -2px -2px 1px #FFFFFF, 2px 0px 1px #FFFFFF, 0px 2px 1px #FFFFFF, -2px 0px 1px #FFFFFF, 0px -2px 1px #FFFFFF;
+}
+
+h2 {
+    font-size: 36px;
+    color: #513c2c;
+    text-align: center;
+}
+
+h3 {
+    font-size: 28px;
+    color: #513c2c;
+    text-align: center;
+}
+
+p {
+    margin: 40px;
+}
+
+body {
+    background-color: #ccf1ed;
+}
+
+.top {
+    text-align: center;
+}
+
+.privacy_policy {
+    background-color: #ffffff;
+    color: #513c2c;
+    padding: 10px;
+}
+
+hr {
+    border: none;
+    border-top: 18px dotted #ccf1ed;
+    margin: 40px;
+}
+
+img.mokamokafactory {
+    width: 300px;
+    height: 300px;
+}
